@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @PanarinI
-- 👀 I’m interested in ML, DS, Statistics
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Evidence-Based Education Research
+- 🌱 I’m currently learning Data Analytics in R
 - 💞️ I’m looking to collaborate on DA projects
-- 📫 How to reach me ...
+- 📫 How to reach me:
+- TG @IgorPanarin
 
 <!---
 PanarinI/PanarinI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

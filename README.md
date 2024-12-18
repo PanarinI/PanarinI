@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @PanarinI
-- 👀 I’m interested in Evidence-Based Education Research
-- 🌱 I’m currently learning Data Analytics in R
-- 💞️ I’m looking to collaborate on DA projects
+- 👀 I’m interested in DA, AI, NLP, social satire, cultural problems of nonsense education
+- 🌱 I’m currently (18.12.2024) working on a couple of projects -
+- *  MirrorMind: revealing the '**hidden layer' of collective mind** in group chats
+  *  'School named after Poslushniy' a **satirical fake digital community** + problematization of authoritarian-style school (and beyond) systems
+  *  'A man in the world' which is a atmospheric beautiful game on philosophical and psychologocal aspects of **connection and its loss between people**
+- 💞️ I’m to collaborate and communicate on those or yours.
 - 📫 How to reach me:
-- TG @IgorPanarin
-
-<!---
-PanarinI/PanarinI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Telegram @PanarinIgor

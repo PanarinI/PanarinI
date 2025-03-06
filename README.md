@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PanarinI
+- 👋 Hi, I’m @PanarinIgor
 - 👀 I’m interested in telegram-based bots and services development
 - 🌱 I’m currently (31.01.25) working on a couple of bots: 
 * UsernameBot - a bot to generate nice usernames for Telegram channels, communities, bots; check available; register; and store names in a database

@@ -1,7 +1,7 @@
-  Привет, я Игорь | Hi, I’m Igor 
-- Мои интересы - AI-ассистенты, аналитика, гуманитарная сфера и искусство | I’m interested in developing AI-powered Assistants, humanitarian and artistic projects.
+Привет, я Игорь | Hi, I’m Igor 
+Мои интересы - AI-ассистенты, аналитика, гуманитарная сфера и искусство | I’m interested in developing AI-powered Assistants, humanitarian and artistic projects.
 
-- Мои проекты | My current projects 
+Мои проекты | My current projects 
   * TeacherAss (telegram) - интерактивный помощник учителю в планировании и вдохновении для уроков (принцип дизайн-мышление) | assistant for teachers: lesson plans, activities, inspiration and more 
   * beta deployed -- @Abstract2Real_bot (telegram) превращает абстрактные мысли в конкретные проекты (дизайн-мыщление) |  assistant to transform abstract thoughts into real projects 
   * beta deployed -- UsernameBot - a bot to generate nice topic-inspired usernames for telegram channels, communities or bots | находит интересные незанятые телеграм-имена по вашей теме

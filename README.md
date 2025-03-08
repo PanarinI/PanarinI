@@ -13,7 +13,7 @@ _Не-ассистенты | non-assistant projects:_
   * MirrorMindBot (?) - explores in-depth analytics of group chats / channels | аналис скрытых эмоций в групповых чатах
   * Emotions_diary_AI - extra dimension for your CBT therapy | Умный блокнот для КПТ (дизайн-мышление)
 
-Я открыт к совместной работе | I'm open to collaboration
+Я открыт к сотворчеству и сотрудничеству | I'm open to collaboration
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Regards,

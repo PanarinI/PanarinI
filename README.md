@@ -18,5 +18,5 @@ _Не-ассистенты | non-assistant projects:_
 
 Regards,
 
-@PanarinIgor (telegram)
+@PanarinIgor (telegram) /n
 my blog: https://teletype.in/@kotibot

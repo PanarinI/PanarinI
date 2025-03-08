@@ -1,4 +1,5 @@
 Привет, я Игорь | Hi, I’m Igor 
+
 Мои интересы - AI-ассистенты, аналитика, гуманитарная сфера и искусство | I’m interested in developing AI-powered Assistants, humanitarian and artistic projects.
 
 _Мои проекты | my current projects_

@@ -20,4 +20,4 @@ Regards,
 
 @PanarinIgor (telegram)
 
-my blog: https://teletype.in/@kotibot
+blog: https://teletype.in/@kotibot

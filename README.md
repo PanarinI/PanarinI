@@ -4,7 +4,7 @@
 _Мои проекты | my current projects_
   * TeacherAss (telegram) - интерактивный помощник учителю в планировании и вдохновении для уроков (дизайн-мышление) | assistant for teachers: lesson plans, activities, inspiration and more 
   * beta deployed -- @Abstract2Real_bot (telegram) превращает абстрактные мысли в конкретные проекты (дизайн-мышление) |  assistant to transform abstract thoughts into real projects 
-  * beta deployed -- UsernameBot - находит интересные незанятые телеграм-имена по вашей теме | a bot to generate nice topic-inspired usernames for telegram channels, communities or bots 
+  * beta deployed -- UsernameBot находит интересные незанятые телеграм-имена по вашей теме | a bot to generate nice topic-inspired usernames for telegram channels, communities or bots 
 
 _Не-ассистенты | non-assistant projects:_
   * Textoid - литературный гений. Переводит произведения, как если бы они возникли в двухмерном мире с иными базовыми, а значит и художественными законами | AI genious  who transforms literature pieces into stunning 'textoids' as if they were written inside of 2D-world with its own fundamental constants. I love it.

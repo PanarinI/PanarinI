@@ -17,5 +17,6 @@ _Не-ассистенты | non-assistant projects:_
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Regards,
+
 @PanarinIgor (telegram)
 my blog: https://teletype.in/@kotibot

@@ -1,6 +1,6 @@
 Привет, я Игорь | Hi, I’m Igor 
 
-Мои интересы - образовательные технологии, аналитика, AI-ассистенты, искусство | I’m interested in developing AI-powered Assistants, humanitarian and artistic projects.
+Мои интересы - образовательные технологии, аналитика, AI Engineering | I’m interested in EdTech, Analytics, AI Englineering
 
 _Мои проекты | my current projects_
   * TeacherAss (telegram) - интерактивный помощник учителю в планировании и вдохновении для уроков (дизайн-мышление) | assistant for teachers: lesson plans, activities, inspiration and more 

@@ -3,8 +3,8 @@
 Мои интересы - образовательные технологии, аналитика, AI Engineering | I’m interested in EdTech, Analytics, AI Englineering
 
 _Мои проекты | my current projects_
-  * TeacherAss (telegram) - интерактивный помощник учителю в планировании и вдохновении для уроков (дизайн-мышление) | assistant for teachers: lesson plans, activities, inspiration and more 
-  * beta deployed -- @Abstract2Real_bot (telegram) превращает абстрактные мысли в конкретные проекты (дизайн-мышление) |  assistant to transform abstract thoughts into real projects 
+  * TeacherAss (telegram) - интерактивный помощник учителю в планировании и вдохновении для уроков | assistant for teachers: lesson plans, activities, inspiration and more 
+  * beta deployed -- @Abstract2Real_bot (telegram) превращает абстрактные мысли в конкретные проекты через интерактивный пошаговый процесс | AI-assistant to transform abstract thoughts into real projects 
   * beta deployed -- UsernameBot находит интересные незанятые телеграм-имена по вашей теме | a bot to generate nice topic-inspired usernames for telegram channels, communities or bots 
 
 _Не-ассистенты | non-assistant projects:_

@@ -3,9 +3,9 @@
 Мои интересы - образовательные технологии, аналитика, AI Engineering | I’m interested in EdTech, Analytics, AI Englineering
 
 _Мои проекты | my current projects_
-  * TeacherAss (telegram) - интерактивный помощник учителю в планировании и вдохновении для уроков | assistant for teachers: lesson plans, activities, inspiration and more 
-  * beta deployed -- @Abstract2Real_bot (telegram) превращает абстрактные мысли в конкретные проекты через интерактивный пошаговый процесс | AI-assistant to transform abstract thoughts into real projects 
-  * beta deployed -- UsernameBot находит интересные незанятые телеграм-имена по вашей теме | a bot to generate nice topic-inspired usernames for telegram channels, communities or bots 
+  * Metodica - AI-помощник учителя английского в планировании уроков по фото учебного материала | AI assistant for teachers: lesson plans, activities based on a shot of your teaching material 
+  * LogoKonspekt - AI-помощник логопеда в разработке конспектов занятий | AI assistant for speech therapists to develop session plans  
+  * @Abstract2Real_bot (telegram) превращает абстрактные мысли в конкретные проекты через интерактивный пошаговый процесс | AI-assistant to transform abstract thoughts into real projects 
 
 _Не-ассистенты | non-assistant projects:_
   * Textoid - литературный гений. Переводит произведения, как если бы они возникли в двухмерном мире с иными базовыми, а значит и художественными законами | AI genious  who transforms literature pieces into stunning 'textoids' as if they were written inside of 2D-world with its own fundamental constants. I love it.

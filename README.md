@@ -1,24 +1,26 @@
-Привет, я Игорь | Hi, I’m Igor 
+Hi, I’m Igor 
 
-Мои интересы - образовательные технологии, аналитика, AI Engineering | I’m interested in EdTech, Analytics, AI Englineering
+my current projects:
 
-_Мои проекты | my current projects_
-  * Metodica - AI-помощник учителя английского в планировании уроков по фото учебного материала | AI assistant for teachers: lesson plans, activities based on a shot of your teaching material 
-  * LogoKonspekt - AI-помощник логопеда в разработке конспектов занятий | AI assistant for speech therapists to develop session plans  
-  * @Abstract2Real_bot (telegram) превращает абстрактные мысли в конкретные проекты через интерактивный пошаговый процесс | AI-assistant to transform abstract thoughts into real projects 
+Agents:
+* Metodica - AI assistant for teachers: lesson plans, activities based on a shot of your teaching material 
+* LogoKonspekt - AI assistant for speech therapists to develop session plans  
+* @Abstract2Real_bot (telegram) - AI-assistant to transform abstract thoughts into real projects 
 
-_Не-ассистенты | non-assistant projects:_
-  * Textoid - литературный гений. Переводит произведения, как если бы они возникли в двухмерном мире с иными базовыми, а значит и художественными законами | AI genious  who transforms literature pieces into stunning 'textoids' as if they were written inside of 2D-world with its own fundamental constants. I love it.
-  * Хроники реликтов - книга, написанная потомком тех, кого в глубокой древности называли искусственным интеллектом | The Relict Chronicles is a book written by a descendant of those who were once called artificial intelligence in the distant past.
-  * A man in the world - игра с медитативным геймплеем о путешествии Фотона в бескрайнем космосе | a contemplative game about a tiny Foton travelling through the universe 
-  * ШколаПослушнова - сатирический мир школы с художественными персонажами | a public channel of a fictional school where bots play the roles of teachers, staff, administration, parents and students. | 
+Others:
+* Export ChatGPT Converrsation - export AI chats in one click (https://chromewebstore.google.com/detail/Export%20ChatGPT%20Conversation/aighdeikamhkemngfanhnamdlpoceimo?hl=en&authuser=0
+  * Textoid - AI genious  who transforms literature pieces into stunning 'textoids' as if they were written inside of 2D-world with its own fundamental constants. I love it.
+  * Хроники реликтов - The Relict Chronicles is a book written by a descendant of those who were once called artificial intelligence in the distant past.
+  * A man in the world - a contemplative game about a tiny Foton travelling through the universe 
+  * ШколаПослушнова - a public satirical channel of a fictional school where bots play the roles of teachers, staff, administration, parents and students. | 
   * Emotions_diary_AI - extra dimension for your CBT therapy | Умный блокнот для КПТ (дизайн-мышление)
 
-Я открыт к сотворчеству и сотрудничеству | I'm open to collaboration
+
+
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Regards,
 
-@PanarinIgor (telegram)
+telegram: @PanarinIgor 
 
 blog: https://teletype.in/@kotibot

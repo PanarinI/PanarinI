@@ -1,7 +1,3 @@
-Hi, I’m Igor 
-
-my current projects:
-
 Agents:
 * Metodica - AI assistant for teachers: lesson plans, activities based on a shot of your teaching material 
 * LogoKonspekt - AI assistant for speech therapists to develop session plans  

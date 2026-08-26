@@ -1,6 +1,6 @@
 Web apps:
 
-*  <a href="https://logozvuk.com/">link</a> - AI assistant for speech therapists to develop session plans
+*  <a href="https://logozvuk.com/">Logozvuk</a> - worksheet generator for speech therapists to develop session plans
 * TeacherAss - instrument for EFL teachers: lesson plans, activities based on a shot of your teaching material 
 
 

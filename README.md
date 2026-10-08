@@ -1,12 +1,13 @@
 Web apps:
 
 *  <a href="https://logozvuk.com/">Logozvuk</a> - worksheet generator for speech therapists to develop session plans
-* <a href="https://chromewebstore.google.com/detail/fill-in-the-blank-generat/cogjebcdchokgfhdbagcgkfeblacndci">Fill in the Blank Generator</a> - a Chrome extension for English teachers. Highlight a text on any page and get a gap-fill worksheet with an answer key.
+
 
 
 Extensions:
-* Export ChatGPT Conversation - export AI chats in one click <a href="https://chromewebstore.google.com/detail/Export%20ChatGPT%20Conversation/aighdeikamhkemngfanhnamdlpoceimo">link</a>
-* Brown Noise Generator - warm sound focus timer for work and study <a href="https://chromewebstore.google.com/detail/minimalist-timer/miknhphoakphfhgjajhkalmpdnadkeic?hl=en">link</a>
+* <a href="https://chromewebstore.google.com/detail/fill-in-the-blank-generat/cogjebcdchokgfhdbagcgkfeblacndci">Fill in the Blank Generator</a> - a Chrome extension for English teachers. Highlight a text on any page and get a gap-fill worksheet with an answer key.
+*  <a href="https://chromewebstore.google.com/detail/Export%20ChatGPT%20Conversation/aighdeikamhkemngfanhnamdlpoceimo">Export ChatGPT Conversation</a> - export AI chats in one click 
+* <a href="https://chromewebstore.google.com/detail/minimalist-timer/miknhphoakphfhgjajhkalmpdnadkeic?hl=en">Brown Noise Generator </a> - warm sound focus timer for work and study 
 
 Plans/concepts:
 * Textoid - AI genious  who transforms literature pieces into stunning 'textoids' as if they were written inside of 2D-world with its own fundamental constants. I love it.

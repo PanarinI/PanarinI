@@ -1,12 +1,12 @@
 Web apps:
 
 *  <a href="https://logozvuk.com/">Logozvuk</a> - worksheet generator for speech therapists to develop session plans
-* TeacherAss - instrument for EFL teachers: lesson plans, activities based on a shot of your teaching material 
-
+* - a Chrome extension for English teachers. Highlight a text on any page and get a gap-fill worksheet with an answer key.
+<a href="https://chromewebstore.google.com/detail/fill-in-the-blank-generat/cogjebcdchokgfhdbagcgkfeblacndci">Fill in the Blank Generator</a> 
 
 Extensions:
-* Export ChatGPT Converrsation - export AI chats in one click <a href="https://chromewebstore.google.com/detail/Export%20ChatGPT%20Conversation/aighdeikamhkemngfanhnamdlpoceimo">link</a>
-* Minimalist Timer - warm sound focus timer for work and study <a href="https://chromewebstore.google.com/detail/minimalist-timer/miknhphoakphfhgjajhkalmpdnadkeic?hl=en">link</a>
+* Export ChatGPT Conversation - export AI chats in one click <a href="https://chromewebstore.google.com/detail/Export%20ChatGPT%20Conversation/aighdeikamhkemngfanhnamdlpoceimo">link</a>
+* Brown Noise Generator - warm sound focus timer for work and study <a href="https://chromewebstore.google.com/detail/minimalist-timer/miknhphoakphfhgjajhkalmpdnadkeic?hl=en">link</a>
 
 Plans/concepts:
 * Textoid - AI genious  who transforms literature pieces into stunning 'textoids' as if they were written inside of 2D-world with its own fundamental constants. I love it.

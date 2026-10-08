@@ -9,8 +9,6 @@ Extensions:
 
 
 
-Regards,
-
-telegram: @PanarinIgor 
+Telegram: @PanarinIgor 
 
 https://fanarlabs.com/
